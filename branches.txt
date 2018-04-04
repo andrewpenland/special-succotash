@@ -1,0 +1,3 @@
+Branches allow for multiple copies of a repo to exist in different states.
+
+I was created really early on, so there's no files here!
